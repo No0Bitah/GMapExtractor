@@ -1,0 +1,3 @@
+*.homeadvisor.com
+*.yelp.com
+*.bbb.org
